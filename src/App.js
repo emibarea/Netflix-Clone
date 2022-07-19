@@ -1,5 +1,5 @@
 import "./App.css";
-import Row from "./Row/Row";
+import { Row } from "./Row/Row";
 import requests from "./API/requests";
 import Banner from "./Banner/Banner";
 import Navbar from "./Navbar/Navbar";
